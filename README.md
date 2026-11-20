@@ -1,10 +1,6 @@
 # -and-ST-
 「and ST」の購買転換率（CVR）の改善とOMO体験の最大化に向けた解決策
 
-![Date](https://shields.io)
-![Author](https://shields.io)
-![Focus](https://shields.io)
-
 ## 📌 プロジェクト概要（エグゼクティブ・サマリー）
 
 本リポジトリは、株式会社アンドエスティHD（旧：アダストリア）が運営する公式Webストア「and ST」の国内EC成長鈍化に対し、**公開決算データの統計的検証（単回帰分析）**と**UI/UX実査・フレームワーク分析（PEST / 5Forces / SWOT / Kanoモデル）**を通じて真因を特定し、具体的なWebサイト改修施策と中長期リソース配分を提案したビジネスケーススタディです。
